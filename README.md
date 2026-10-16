@@ -2,7 +2,6 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 <a href="http://www.columbia.edu/~jeh1/2008/StateOfWild_20080428.pdf">
-<img src="https://co2ppmbadge.piazza.energy/latest/banner_horiz.png">
 </a>
 
 ## Mission
@@ -21,7 +20,6 @@ Before proposing changes, please read the `CONTRIBUTING.MD` to understand in mor
 
 * [UK Environmental Performance Certificates API](https://epc.opendatacommunities.org/docs/api)
 * [Jack Kelly's UK Domestic Appliance-Level Electricity (UK-DALE) dataset](https://jack-kelly.com/data/)
-* [REDD The Reference Energy Disaggregation Data Set](http://redd.csail.mit.edu/)
 * [DRED (Dutch Residential Energy Dataset)](http://www.st.ewi.tudelft.nl/akshay/dred/)
 * [AMEE (Avoidance of Mass Extinctions Engine) API](https://www.amee.com/api)
 * [UK Grid Carbon Intensity Forecast API](https://api.carbonintensity.org.uk/)
@@ -36,14 +34,14 @@ Before proposing changes, please read the `CONTRIBUTING.MD` to understand in mor
 * [energydata.info datasets](https://energydata.info/dataset)
 * [Elexon open settlement data](https://www.elexon.co.uk/data/open-settlement-data/)
 * [data.gov Climate topic](https://catalog.data.gov/dataset?groups=climate5434&#topic=climate_navigation)
-* [London Data Store Environmental topic](https://data.london.gov.uk/dataset?topics=fb70a4e6-311c-41c1-8429-3fe27ebc928a)
+* [London Data Store Environmental topic](https://data.london.gov.uk/)
 * [DataHub climate change collection](https://datahub.io/collections/climate-change)
 
 ## Open Source Organisations
 
 * [Open Climate Fix](https://github.com/openclimatefix)
-* [tmrow](https://github.com/tmrowco/)
-* [ember climate (formerly sandbag climate)](https://github.com/sandbag-climate)
+* [tmrow](https://tmrow.com/)
+* [ember climate (formerly sandbag climate)](https://ember-energy.org/)
 * [Carbon Map](https://github.com/carbonmap)
 
 ## Packages, Modules and Software
@@ -58,7 +56,6 @@ Before proposing changes, please read the `CONTRIBUTING.MD` to understand in mor
 
 ## Meta
 
-* [modernising energy data wiki](https://modernisingenergydata.atlassian.net/wiki/spaces/MED/overview)
 * [piazza energys curated resource list](https://github.com/piazza-energy/curated-resource-list)
 * [Project Radar by Climate Action Tech](https://airtable.com/shrMSPnwvOnINjowF/tbluarrAvsm9Tvojd)
 * [ENSO Historical Dataset](https://github.com/dayu2333-jinyul/enso-historical-data) — Comprehensive monthly ENSO data (1950–2026), 126 records with ONI, SOI, subsurface temperature anomalies. CSV + JSON, CC0.
